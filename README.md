@@ -17,14 +17,14 @@
 
 ## 2. App演示截图
 
-![首页](./Images/首页.PNG)
-![商品分类](./Images/商品分类.PNG)
-![商品列表](./Images/商品列表.PNG)
-![商品详情](./Images/商品详情.PNG)
-![购物车](./Images/购物车.PNG)
-![支付商品](./Images/支付商品.PNG)
-![个人中心](./Images/个人中心.PNG)
-![收藏列表](./Images/收藏列表.PNG)
-![搜索](./Images/搜索.PNG)
-![意见反馈](./Images/意见反馈.PNG)
+![首页](./images/首页.PNG)
+![商品分类](./images/商品分类.PNG)
+![商品列表](./images/商品列表.PNG)
+![商品详情](./images/商品详情.PNG)
+![购物车](./images/购物车.PNG)
+![支付商品](./images/支付商品.PNG)
+![个人中心](./images/个人中心.PNG)
+![收藏列表](./images/收藏列表.PNG)
+![搜索](./images/搜索.PNG)
+![意见反馈](./images/意见反馈.PNG)
 
